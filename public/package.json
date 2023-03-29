@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phong-2107/Phong-s-profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phong-2107/Phong-s-profile/issues"
+  },
+  "homepage": "https://github.com/phong-2107/Phong-s-profile#readme",
+  "dependencies": {
+    "firebase": "^9.18.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1"
+  }
+}
